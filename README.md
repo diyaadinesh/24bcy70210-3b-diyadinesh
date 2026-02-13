@@ -27,9 +27,3 @@ This application allows users to manage a collection of books with features like
 
 ---
 
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone <your-repo-link>
